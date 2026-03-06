@@ -1,6 +1,8 @@
 # dfl_decompose
 DFL (DiNardo, Fortin, and Lemieux) reweighting decomposition Use dfl_decompose (ddecompose) With (In) R Software
 
+https://www.youtube.com/watch?v=Dop6PDf3hZU
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
